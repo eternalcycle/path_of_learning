@@ -1,4 +1,4 @@
-解答代码与问题分析
+/*解答代码与问题分析*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <malloc.h>
